@@ -1,0 +1,8 @@
+6. Scrum
+
+Description (2 lines):
+Scrum is an Agile framework used to manage and complete projects in short cycles called sprints.
+It focuses on teamwork, regular meetings, and continuous improvement.
+
+Flow:
+Product Backlog → Sprint Planning → Development → Daily Standup → Review → Retrospective → Repeat 🔁
