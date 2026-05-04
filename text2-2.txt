@@ -1,0 +1,8 @@
+4. Team Collaboration
+
+Description (2 lines):
+Team collaboration ante team members kalisi communicate chesi work complete cheyyadam.
+It improves productivity, problem-solving, and project success.
+
+Flow:
+Communication → Task Sharing → Collaboration → Review → Feedback → Completion
