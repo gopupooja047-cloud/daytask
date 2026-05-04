@@ -1,9 +1,0 @@
-2. Traditional vs Agile
-
-Description (2 lines):
-Traditional (Waterfall) lo work step-by-step once complete ayyaka next phase ki vellali.
-Agile lo iterations untayi, changes easy ga accept chesi fast ga update chestaru.
-
-Flow:
-Traditional: Requirements → Design → Development → Testing → Deployment
-Agile: Plan → Develop → Test → Feedback → Repeat 🔁

@@ -1,8 +1,0 @@
-3. Software Lifecycle (SDLC)
-
-Description (2 lines):
-Software Lifecycle ante software ni plan nundi maintenance varaku develop cheyyadaniki steps.
-Idi proper process follow avvadam valla quality and performance improve avuthayi.
-
-Flow:
-Planning → Analysis → Design → Development → Testing → Deployment → Maintenance
