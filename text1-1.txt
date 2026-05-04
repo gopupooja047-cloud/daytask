@@ -1,0 +1,8 @@
+1. Agile
+
+Description (2 lines):
+Agile ante small small parts lo software develop chesi, continuous feedback tho improve cheyyadam.
+It focuses on flexibility, quick delivery, and customer satisfaction.
+
+Flow:
+Requirements → Planning → Development → Testing → Feedback → Release → Repeat 🔁
